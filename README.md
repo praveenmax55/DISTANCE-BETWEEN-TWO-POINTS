@@ -11,7 +11,7 @@ Get the two list forom the user
 import the math module
 
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula ![formula](/formula.jpg)
 
 ### Step 4: 
 print the value useing the format function
