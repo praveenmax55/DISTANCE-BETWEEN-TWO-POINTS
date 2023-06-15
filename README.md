@@ -13,7 +13,6 @@ import the math module
 ### Step 3: 
 Substitute the values in the distance formula ![Screenshot 2023-06-15 083917](https://github.com/praveenmax55/DISTANCE-BETWEEN-TWO-POINTS/assets/113497509/232d657d-a935-45af-8328-1562df388e0b)
 
-
 ### Step 4: 
 print the value useing the format function
 
